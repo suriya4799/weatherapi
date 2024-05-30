@@ -28,7 +28,7 @@
                         <configuration>
                             <executable>python</executable>
                             <arguments>
-                                <argument>https://github.com/suriya4799/weatherapi/blob/master/weatherapi.py</argument>
+                                <argument>weatherapi.py</argument>
                             </arguments>
                         </configuration>
                     </execution>
